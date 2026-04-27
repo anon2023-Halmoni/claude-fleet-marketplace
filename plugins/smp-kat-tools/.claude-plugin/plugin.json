@@ -1,0 +1,21 @@
+{
+  "name": "smp-kat-tools",
+  "description": "Medical-education exam-prep toolkit. Bundles medical-acquisition (21 backends, USyd OpenAthens), examiner-feedback-mining (RACGP / ACRRM / AMC patterns), distractor-design (72-entry taxonomy plus 5 KFP buckets), kfp-failure-bucket (8-bucket failure router). Slash commands: /smp-kat-tools:acquire, /smp-kat-tools:kfp-stem, /smp-kat-tools:refresh-capabilities. Subagents: acquisition-fetcher, exam-stem-author.",
+  "version": "0.1.0",
+  "author": {
+    "name": "anon2023-Halmoni"
+  },
+  "homepage": "https://github.com/anon2023-Halmoni/claude-fleet-marketplace",
+  "repository": "https://github.com/anon2023-Halmoni/claude-fleet-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "medical",
+    "exam-prep",
+    "racgp",
+    "amc",
+    "kfp",
+    "acquisition",
+    "openathens"
+  ],
+  "category": "education"
+}

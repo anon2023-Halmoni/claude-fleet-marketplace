@@ -1,0 +1,17 @@
+{
+  "name": "fleet",
+  "owner": {
+    "name": "anon2023-Halmoni"
+  },
+  "description": "Personal fleet plugins for fw16 + gx10. Medical-reference acquisition, SMP KAT exam-prep tooling, knowledge-vault helpers, RE / security-research preambles.",
+  "plugins": [
+    {
+      "name": "smp-kat-tools",
+      "source": "./plugins/smp-kat-tools",
+      "description": "Medical-education exam-prep toolkit: 21-backend reference acquisition plus examiner-feedback-mining plus distractor-design schema plus KFP failure-bucket router. Bundles 4 skills, 3 slash commands, 2 specialised subagents.",
+      "version": "0.1.0",
+      "category": "education",
+      "keywords": ["medical", "exam-prep", "racgp", "amc", "kfp", "acquisition"]
+    }
+  ]
+}

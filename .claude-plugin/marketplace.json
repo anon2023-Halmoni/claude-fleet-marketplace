@@ -3,7 +3,10 @@
   "owner": {
     "name": "anon2023-Halmoni"
   },
-  "description": "Personal fleet plugins for fw16 + gx10. Medical-reference acquisition, SMP KAT exam-prep tooling, knowledge-vault helpers, RE / security-research preambles.",
+  "metadata": {
+    "description": "Personal fleet plugins for fw16 plus gx10. Medical-reference acquisition, SMP KAT exam-prep tooling, knowledge-vault helpers, RE / security-research preambles.",
+    "version": "0.1.0"
+  },
   "plugins": [
     {
       "name": "smp-kat-tools",
